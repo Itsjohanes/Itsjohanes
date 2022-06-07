@@ -11,6 +11,7 @@ I currently study about Android Development especially using Flutter
 * ✉️  You can contact me at [johanesalex774@gmail.com](mailto:johanesalex774@gmail.com)
 * 🚀  I'm currently working on [CRUD](http://https://github.com/Itsjohanes/CrudBagianBuku)
 * 🧠  I'm learning Flutter
+* 🏅 Certifications: <a href = "https://aspen.eccouncil.org/VerifyBadge?type=certification&a=w4oU6jq4/DHrx7T+6ImUhRDxYJIHKVtX2TjGtHhsv5I=">EC-Council CSCU </a>
 
 <a href="https://www.github.com/Itsjohanes" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Itsjohanes?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
