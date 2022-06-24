@@ -1,16 +1,9 @@
 Hi 👋 My name is Johannes Alexander Putra
 =========================================
 
-Full Stack Developer
---------------------
-
-I currently study about Android Development especially using Flutter
-
 * 🌍  I'm based in Indonesia
 * 🖥️  See my portfolio at [MyPortofolio](http://https://itsjohanes.github.io/)
 * ✉️  You can contact me at [johanesalex774@gmail.com](mailto:johanesalex774@gmail.com)
-* 🚀  I'm currently working on [CRUD](http://https://github.com/Itsjohanes/CrudBagianBuku)
-* 🧠  I'm learning Flutter
 * 🏅 Certifications: <a href = "https://aspen.eccouncil.org/VerifyBadge?type=certification&a=w4oU6jq4/DHrx7T+6ImUhRDxYJIHKVtX2TjGtHhsv5I=">EC-Council CSCU </a>
 
 <a href="https://www.github.com/Itsjohanes" target="_blank" rel="noreferrer"><img
