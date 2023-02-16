@@ -2,7 +2,7 @@ Hi 👋 My name is Johannes Alexander Putra
 =========================================
 
 * 🌍  I'm based in Indonesia
-* 🖥️  See my portfolio at [MyPortofolio](http://https://itsjohanes.vercel.app/)
+* 🖥️  See my portfolio at [MyPortofolio](https://itsjohanes.vercel.app/)
 * ✉️  You can contact me at [johanesalex774@gmail.com](mailto:johanesalex774@gmail.com)
 * 🏅 Certifications: <a href = "https://aspen.eccouncil.org/VerifyBadge?type=certification&a=w4oU6jq4/DHrx7T+6ImUhRDxYJIHKVtX2TjGtHhsv5I=">EC-Council CSCU </a>
 
