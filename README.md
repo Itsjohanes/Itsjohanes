@@ -6,6 +6,8 @@ Hi 👋 My name is Johannes Alexander Putra
 * ✉️  You can contact me at [johanesalex774@gmail.com](mailto:johanesalex774@gmail.com)
 * 🏅 Certifications: <a href = "https://aspen.eccouncil.org/VerifyBadge?type=certification&a=w4oU6jq4/DHrx7T+6ImUhRDxYJIHKVtX2TjGtHhsv5I=">EC-Council CSCU </a>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsjohanes&show_icons=true&theme=transparent&langs_count=8)
+
 <a href="https://www.github.com/Itsjohanes" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Itsjohanes?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
