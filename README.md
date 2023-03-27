@@ -1,6 +1,5 @@
 Hi 👋 My name is Johannes Alexander Putra
 =========================================
-<img align="right" height="155px" width="155px" alt="kiana" src="https://raw.githubusercontent.com/veldanava/veldanava/main/20230226_212342.png" />
 
 * 🌍  I'm based in Indonesia
 * 🖥️  See my portfolio at [MyPortofolio](https://itsjohanes.vercel.app/)
