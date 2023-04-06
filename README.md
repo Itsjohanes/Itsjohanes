@@ -3,7 +3,6 @@ Hi 👋 My name is Johannes Alexander Putra
 
 * 🌍  I'm based in Indonesia
 * 🖥️  See my portfolio at [MyPortofolio](https://itsjohanes.vercel.app/)
-* Codeigniter programmer
 * ✉️  You can contact me at [johanesalex774@gmail.com](mailto:johanesalex774@gmail.com)
 * 🏅 Certifications: <a href = "https://aspen.eccouncil.org/VerifyBadge?type=certification&a=w4oU6jq4/DHrx7T+6ImUhRDxYJIHKVtX2TjGtHhsv5I=">EC-Council CSCU </a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
