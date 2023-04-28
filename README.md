@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Johannes Alexander Putra</h1>
 <h3 align="center">A passionate Fullstack developer from Indonesia</h3>
+<img align="left" alt="Giphy" width="550"src="https://i.postimg.cc/0j29jQXy/pngwing-com.png">
 
 - 👨‍💻 All of my projects are available at [https://johanesalexanderputra.my.id/](https://johanesalexanderputra.my.id/)
 
@@ -8,6 +9,8 @@
 - 💬 Ask me about **React, Laravel, Unity, JSON, Codeigniter, C#, .NET, JAVA, C++, C**
 
 - 📫 How to reach me **johanesalex774@gmail.com**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Itsjohanes&label=Profile%20views&color=0e75b6&style=flat" alt="itsjohanes" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,9 +27,17 @@
 <b>My GitHub Stats</b>
 
 
-<a href="http://www.github.com/Itsjohanes"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Itsjohanes&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-gap: 20px;">
+  <div>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=itsjohanes&show_icons=true&locale=en&theme=tokyonight" alt="itsjohanes">
+    <img align="left" style="margin-top: 10px;" src="https://github-readme-streak-stats.herokuapp.com/?user=itsjohanes&&theme=tokyonight" alt="itsjohanes">
+  </div>
+  <div>
+    <a href="https://github.com/itsjohanes">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsjohanes&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages">
+    </a>
+  </div>
+</div>
 
 
 
