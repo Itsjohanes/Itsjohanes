@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [http://jap.my.id](http://jap.my.id)
 
-- 💬 Ask me about **react, laravel, unity, C#, .NET, JAVA, C++, C**
+- 💬 Ask me about **React, Laravel, Unity, JSON, Codeigniter, C#, .NET, JAVA, C++, C**
 
 - 📫 How to reach me **johanesalex774@gmail.com**
 
