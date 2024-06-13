@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Software Enginering Teacher from Indonesia</h3>
 <img align="left" alt="Giphy" width="550"src="https://i.postimg.cc/0j29jQXy/pngwing-com.png">
 
-- 👨‍💻 All of my projects are available at [https://johanesalexanderputra.my.id/](https://johanesalexanderputra.my.id/)
+- 👨‍💻 My Office is  available at [https://wengdev.tech/]([https://wengdev.tech/)
 
 - 📝 I regularly write articles on [http://jap.my.id](http://jap.my.id)
 
