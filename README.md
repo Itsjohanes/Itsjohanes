@@ -7,8 +7,6 @@
 
 - 📝 I regularly write articles on [http://jap.my.id](http://jap.my.id)
 
-- 💬 Ask me about **React, Laravel, Unity, JSON, Codeigniter, C#, .NET, JAVA, C++, C**
-
 - 📫 How to reach me **johanesalex774@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Itsjohanes&label=Profile%20views&color=0e75b6&style=flat" alt="itsjohanes" /> </p>
