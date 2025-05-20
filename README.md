@@ -1,45 +1,48 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://wengdev.tech)
-<h1 align="center">Hi 👋, I'm Johannes Alexander Putra</h1>
-<h3 align="center">A passionate Software Engineer  from Indonesia</h3>
-<img align="left" alt="Giphy" width="550"src="https://i.postimg.cc/0j29jQXy/pngwing-com.png">
+[![MasterHead](https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif)](https://azhararrozak.my.id/)
 
-- 👨‍💻 My Office is  available at [https://wengdev.my.id/]([https://wengdev.my.id/)
+<div align="center">
 
-- 📝 I regularly write articles on [http://jap.my.id](http://jap.my.id)
+<h1>Hello Everyone 👋 , I'm Putra</h1>
+<h3>Software Engineer</h3>
+<img align="right" width="300" alt="coder" src="https://media.tenor.com/fdvOlldr5RYAAAAC/private.gif" />
 
-- 📫 How to reach me johanesalex774@gmail.com
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Itsjohanes&label=Profile%20views&color=0e75b6&style=flat" alt="itsjohanes" /> </p>
-
-<br><br><br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/johannes-alexander-putra-044833201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johannes-alexander-putra-044833201" height="30" width="40" /></a>
-<a href="https://instagram.com/johannesap_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="johannesap_" height="30" width="40" /></a>
-</p>
-
-
-
-
-
-<b>My GitHub Stats</b>
-
-
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-gap: 20px;">
-  <div>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=itsjohanes&show_icons=true&locale=en&theme=tokyonight" alt="itsjohanes">
-    <img align="left" style="margin-top: 10px;" src="https://github-readme-streak-stats.herokuapp.com/?user=itsjohanes&&theme=tokyonight" alt="itsjohanes">
-  </div>
-  <div>
-    <a href="https://github.com/itsjohanes">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsjohanes&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages">
-    </a>
-  </div>
 </div>
 
 
 
+- 🌱 I’m currently learning **NEXTJS**  
+- ❤️ Favorite Programming Language **PHP**
 
-### Support Me
+<br><br><br>
 
-<a href="https://www.buymeacoffee.com/itsjohanes"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<!-- Tech Stack -->
+<div align="center">
+  
+## 💻 Tech Stack ⚡
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+
+
+<!-- Social connections -->
+
+
+<!-- Stats -->
+<div align="center">
+  
+  ## 📊 My Git Stats 📈
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsjohanes&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="55%" /> <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsjohanes&theme=aura&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsjohanes&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" />
+</div>
+
+<!-- Snake Animation -->
+<div align="center">
+    
+  ![snake gif](https://github.com/azhararrozak/azhararrozak/blob/output/github-snake-dark.svg)
+</div>
