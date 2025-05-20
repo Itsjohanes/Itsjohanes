@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [http://jap.my.id](http://jap.my.id)
 
-- 📫 How to reach me **putra@wengdevlab.my.id**
+- 📫 How to reach me **johanesalex774@gmail.com*
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Itsjohanes&label=Profile%20views&color=0e75b6&style=flat" alt="itsjohanes" /> </p>
 
